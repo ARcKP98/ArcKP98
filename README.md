@@ -1,6 +1,6 @@
 # Hello! My name is Kartik
 # 💫 About Me:
-🔭 I’m currently pursuing a Bachelors Degree in Artificial Intelligence at the Vrije Universiteit Amsterdam.<br>🌱 I’m currently expanding my programming skills with Python, with a focus on machine learning applications.<br>⚡ I once managed to fix and reset a broken iPad with nothing but a toothpick.<br>
+🔭 I’m currently pursuing a Bachelors Degree in Artificial Intelligence at the Vrije Universiteit Amsterdam.<br>🌱 I’m currently expanding my programming skills with Python, with a focus on Machine Learning.
 
 
 ## 🌐 Socials:
