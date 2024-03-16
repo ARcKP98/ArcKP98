@@ -1,6 +1,7 @@
 # Hello! My name is Kartik
 # 💫 About Me:
-🔭 I’m currently pursuing a Bachelors Degree in Artificial Intelligence at the Vrije Universiteit Amsterdam.<br>🌱 I’m currently expanding my programming skills with Python, with a focus on Machine Learning.
+⚡ I am a Full Stack Developer.
+<br>🔭 I’m currently pursuing a Bachelors Degree in Artificial Intelligence at the Vrije Universiteit Amsterdam.<br>🌱 I’m currently expanding my programming skills with Python, with a focus on Machine Learning.
 
 
 ## 🌐 Socials:
@@ -13,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ARcKP98&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARcKP98&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ARcKP98&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
